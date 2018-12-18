@@ -9,10 +9,13 @@ App Screens
   d. Log Event Button
     - QR scan 
     - manual event entry
-  d. X
+  d. Transfer or Import data functionality from various sources. 
 3. Account Info and Settings
   a. Email
   b. Password
   c. Register/link cat goals
     - automatically syncs up with the Home screen and dictates how many hours and in what domains (clothes, food, naps) are required 
   d. General Personal Information 
+
+
+iOS (SWIFT 4)
