@@ -4,11 +4,15 @@ App Screens
   a. Header
     - Account Info and Settings
   b. Event History Summary
-  c. Log Event Button
+    - Export Options to email, plain txt
+  c. Upcoming Events
+  d. Log Event Button
+    - QR scan 
+    - manual event entry
   d. X
 3. Account Info and Settings
   a. Email
   b. Password
   c. Register/link cat goals
-    - automatically syncs up with the Home screen and dictates how many hours and in what domains (clothes, food, naps) are required to maintain
-  d. 
+    - automatically syncs up with the Home screen and dictates how many hours and in what domains (clothes, food, naps) are required 
+  d. General Personal Information 
