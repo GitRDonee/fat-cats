@@ -1,0 +1,14 @@
+App Screens
+1. Login screen 
+2. Home screen
+  a. Header
+    - Account Info and Settings
+  b. Event History Summary
+  c. Log Event Button
+  d. X
+3. Account Info and Settings
+  a. Email
+  b. Password
+  c. Register/link cat goals
+    - automatically syncs up with the Home screen and dictates how many hours and in what domains (clothes, food, naps) are required to maintain
+  d. 
